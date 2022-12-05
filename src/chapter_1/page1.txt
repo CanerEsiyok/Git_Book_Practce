@@ -1,4 +1,4 @@
-Today, we are gonna learn how to use Git
-This is the start of my book
+Today, we are going to learn how to use Git!
+This is the start of my book.
 
-Java is cool
+Java is cool!
