@@ -1,0 +1,4 @@
+Today is the second day of Git.
+
+I am to create two pages.
+and this is the first of them.
