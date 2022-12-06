@@ -1,0 +1,9 @@
+
+
+so fat we have learned flow for
+commit--> push
+
+and
+
+remote--> local
+
