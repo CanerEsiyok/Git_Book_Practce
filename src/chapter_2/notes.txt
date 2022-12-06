@@ -4,3 +4,5 @@ these are some notes for the editor
 adding some more text
 
 more fun
+
+more suggestions
